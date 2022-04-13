@@ -14,3 +14,6 @@ The tutorials presented here are intended to be run on Google Colab.
 
 5. Run the desired tutorial. Colab may warn that the notebooks are not from
    Google, you should dismiss this warning.
+
+Thanks to [Francesco Ballerin](https://www.francescoballarin.it) and his [FEM
+on Colab](https://fem-on-colab.github.io) package for making [Firedrake](https://firedrakeproject.org) run seamlessly on Colab.
