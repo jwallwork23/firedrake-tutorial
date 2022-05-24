@@ -1,4 +1,4 @@
-# Hands on Firedrake tutorials for G-Adopt workshops
+# Hands on "Introduction to Firedrake" tutorial
 
 The tutorials presented here are intended to be run on Google Colab. 
 
@@ -10,7 +10,7 @@ The tutorials presented here are intended to be run on Google Colab.
 
 3. Select "GitHub" in the orange bar at the top of the dialog. 
 
-4. Type `g-adopt/tutorials` on the search line.
+4. Type `jwallwork23/firedrake-tutorial` on the search line.
 
 5. Run the desired tutorial. Colab may warn that the notebooks are not from
    Google, you should dismiss this warning.
